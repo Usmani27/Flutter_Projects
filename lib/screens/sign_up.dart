@@ -17,7 +17,7 @@ class SignUp extends StatelessWidget{
           child:Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text("Let's sign you up", style: TextStyle(fontSize: 35, fontWeight: FontWeight.w600, color: Color(0xFFFFFFFF)),),
+              Text("Let's sign you up", style: TextStyle(fontSize: 35, fontWeight: FontWeight.w600, color: Colors.blue),),
               SizedBox(height: 14,),
               Text("Welcome \nJoin the community!", style: TextStyle(fontSize: 30, fontWeight: FontWeight.w400, color: Color(0xFFFFFFFF)),),
               SizedBox(height: 47,),
